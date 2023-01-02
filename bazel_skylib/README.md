@@ -1,10 +1,3 @@
-This directory and its subdirectories are a partial fork of the
-[`bazel-skylib`](https://github.com/bazelbuild/bazel-skylib)
-github repository, for experimental use with Bazel builds.
-
-Not all files in `bazel-skylib` are included. When a file in this directory diverges
-from `bazel-skylib`, add a comment containing `Divergence from bazel-skylib` which
-explains the need for this divergence.
-
-It should be a goal to follow HEAD `bazel-skylib` as closely as possible, with
-necessary changes made upstream ASAP.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f63f6582a5a245886d01f5f5772efa7dda6f28606e29e4fd00b328d6a71c5f1
+size 510

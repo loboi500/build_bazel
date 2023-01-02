@@ -1,13 +1,3 @@
-This directory and its subdirectories are a partial fork of the
-[`rules_cc`]((https://github.com/bazelbuild/rules_cc/)
-github repository, for experimental use with Bazel builds.
-
-To reduce the number of dependencies of this directory, not all files in `rules_cc`
-are included.
-
-When a file in this directory diverges
-from `rules_cc`, add a comment containing `Divergence from rules_cc` which
-explains the need for this divergence.
-
-This directory must follow HEAD `rules_cc` as closely as possible, with
-necessary changes made upstream ASAP.
+version https://git-lfs.github.com/spec/v1
+oid sha256:62c6383d6bfc176b1ca55503e54709b69395b502a01f3e95b29eca21fee10fe4
+size 542

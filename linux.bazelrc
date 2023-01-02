@@ -1,3 +1,3 @@
-import %workspace%/build/bazel/common.bazelrc
-
-build --host_platform //build/bazel/platforms:linux_x86_64
+version https://git-lfs.github.com/spec/v1
+oid sha256:55345d7b7f1eec0c71a327c75aa08eac02c337d5b4cd376e85e260a2a8bba8f4
+size 106
